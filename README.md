@@ -13,6 +13,11 @@ Inclúe multiusuario local, proxectos, calendario, internacionalización (`gl`/`
 
 ## Evolución por versión
 
+### v2.1.0
+
+- Visualización por días no calendario
+- Melloras visuais en todos os módulos
+
 ### v2.0.0
 
 - Novo módulo de **Notas**.
